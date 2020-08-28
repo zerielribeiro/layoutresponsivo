@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: azure;
+}
+
+section {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background: #0f0f1b;
+}
+.tema {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.tema h1 {
+  margin-bottom: 20px;
+}
+.tema p {
+  margin-bottom: 78px;
+}
+.content {
+  display: flex;
+  justify-content: center;
+}
+
+.get {
+  width: 265px;
+  height: 267px;
+  margin-left: 19px;
+  background: #242486;
+  border-radius: 20px;
+  padding: 35px 0 0 35px;
+}
+.get p {
+  margin-top: 20px;
+  margin-bottom: 55px;
+}
+.io {
+  width: 265px;
+  height: 267px;
+  margin-left: 19px;
+  padding: 35px 0 0 35px;
+  margin-right: 20px;
+  margin-left: 20px;
+  background: #171727;
+  border-radius: 20px;
+}
+.io h2 {
+  margin-bottom: 35px;
+}
+.io h6 {
+  margin-top: 4px;
+}
+.a a {
+  display: flex;
+  align-items: center;
+  margin-top: 44px;
+}
+
+.so {
+  width: 265px;
+  height: 267px;
+  margin-left: 19px;
+  padding: 35px 0 0 35px;
+  margin-right: 20px;
+  margin-left: 20px;
+  background: #171727;
+  border-radius: 20px;
+}
+.so h2 {
+  margin-bottom: 35px;
+}
+.so h6 {
+  margin-top: 4px;
+}
